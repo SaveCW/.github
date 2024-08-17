@@ -1,6 +1,6 @@
 # Hi there / Привет 👋
 
-[English](https://github.com/SaveCW/.github/blob/main/languages/README_EN.md) | [Русский](https://github.com/SaveCW/.github/blob/main/README.md)
+[English](https://github.com/SaveCW/.github/blob/main/profile/README_EN.md) | [Русский](https://github.com/SaveCW/.github/blob/main/profile/README.md)
 
 **#SaveCW** - это динамичный, **управляемый сообществом проект**, направленный на повышение удобства для всех, кто играет на [CatWar](https://catwar.su). Наша миссия заключается в создании и внедрении улучшений, которые делают игру более приятной и доступной.
 
