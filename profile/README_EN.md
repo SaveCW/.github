@@ -16,3 +16,9 @@ We saw the recent changes that were made to the game and we want to make it bett
 If you have any ideas for enhancements on [CatWar](https://catwar.su) that comply with the "General Rules of the Game (GRI)", please open an issue at [our GitHub issues page](https://github.com/SaveCW/.github/issues).
 
 We are always on the lookout for new ideas and ways to improve the game for everyone!
+
+## Projects
+
+- [Costume-Client](https://github.com/SaveCW/Costume-Client) - is a project by #SaveCW that allows players to create and use custom costumes in the CatWar game.
+
+More Projects coming soon! 🚀 (Maybe)
